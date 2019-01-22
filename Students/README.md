@@ -25,7 +25,7 @@ Undergraduate Students
 * Ethan Curag
 * Jinyu Daig
 * Justin Denizg
-* Maria Dmitrievskaiag
+* Maria Dmitrievskaia, [dmimar382](https://github.com/dmimar382)
 * Parker Drake, [ParkerDrake](https://github.com/ParkerDrake)
 * Seyedeh Nahid Esmati, [nahidgithubaccount](https://github.com/nahidgithubaccount)
 * Leandro Falcong
